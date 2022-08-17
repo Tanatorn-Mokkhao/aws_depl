@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest --watchAll --no-cache",
+    "test": "jest .",
     "start": "node index.js"
   },
   "keywords": [],
